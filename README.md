@@ -13,5 +13,6 @@ GO15VENDOREXPERIMENT=1 go get github.com/coxx/try-go-vendoring
 ```
 
 
-This issue is discussed in detail in Dave Cheney's talk "Reproducible Builds"
-https://www.youtube.com/watch?v=c3dW80eO88I
+This issue is discussed in detail in [Dave Cheney's talk "Reproducible Builds"](https://www.youtube.com/watch?v=c3dW80eO88I).
+
+
