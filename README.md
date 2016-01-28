@@ -1,4 +1,4 @@
-This is small exercise illustrates issues with go vendoring experiment and nested vendor folders.
+This small exercise illustrates issues with go vendoring experiment and nested vendor folders.
 
 Comparison of two equal values (from human point of view)
 ```
